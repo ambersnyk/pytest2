@@ -1,5 +1,5 @@
 --trusted-host download.pytorch.org
--f https://download.pytorch.org/whl/cu113/torch_stable.html
+--f https://download.pytorch.org/whl/cu113/torch_stable.html
 
 absl-py==1.0.0
 addict==2.4.0
